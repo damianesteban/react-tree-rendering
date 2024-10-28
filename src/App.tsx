@@ -1,7 +1,7 @@
 import Tree from './components/Tree'
 import './App.css'
 
-import { treeData } from './data'
+import treeData from './utils.ts/data-formatter'
 
 function App() {
   return (

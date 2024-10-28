@@ -1,5 +1,3 @@
-
-
 // Our node type
 export interface TreeNodeType {
   id: number
